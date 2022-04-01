@@ -23,7 +23,6 @@ Switch Case is use to implement the calculator. The switch statement allows us t
 ## THREATS
 * Dependency. Even though calculators can do the basic operations instantly, students should not use it all the time.
 * Cheating. The availability of graphic calculators has made it easier for students to cheat during their tests.
-* High cost.
 
 ## Operations Includes 
 ### 1 Arithematic Operation
