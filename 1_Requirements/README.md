@@ -26,15 +26,15 @@ Switch Case is use to implement the calculator. The switch statement allows us t
 * High cost.
 
 ## Operations Includes 
-1 Arithematic Operation
+### 1 Arithematic Operation
   * Addition
   * Substraction
   * Multiplication
   * Division
   * Modulous
-2 Factorial of a number
-3 Fibonacci Series
-4 squareAndRoots
+### 2 Factorial of a number
+### 3 Fibonacci Series
+### 4 SquareAndRoots
   * Square
   * Square Root
   * Cube 
