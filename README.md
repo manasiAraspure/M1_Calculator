@@ -7,7 +7,7 @@
 * [![Build CI](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml/badge.svg)](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml)
 * [![cppcheck Analysis](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/cppCheck.yml/badge.svg)](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/cppCheck.yml)
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/fa2a0daa8894469e8b0f55cca798e501)](https://www.codacy.com/gh/manasiAraspure/M1_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=manasiAraspure/M1_Calculator&amp;utm_campaign=Badge_Grade)
-
+* [![cppcheck Analysis](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/cppCheck.yml/badge.svg)](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/cppCheck.yml)
 
 ## Folder Structure
 Folder             | Description
