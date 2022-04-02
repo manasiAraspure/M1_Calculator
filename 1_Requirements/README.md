@@ -23,7 +23,7 @@ Switch Case is use to implement the calculator. The switch statement allows us t
 * Now a days Calculator are available in every software based devices like computer and mobile phones, etc.
 
 ## THREATS
-* Dependency. Even though calculators can do the basic operations instantly, students should not use it all the time.
+* No Skill-Building. Calculators take away the necessity for a student to know the basics.
 * Cheating. The availability of graphic calculators has made it easier for students to cheat during their tests.
 
 ## Operations Includes 
