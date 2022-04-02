@@ -1,27 +1,25 @@
 #include <stdio.h>
 #include <math.h>
+int addition();
+int subtraction();
+int multiplication();
+int division();
+int modulous();
+int fact();
+int fibonacci();
+int square();
+int squareRoot();
+int cube();
+int cubeRoot();
 
 int arithmaticOperation();
 int squareAndRoots();
-extern int addition(int, int);
-extern int substraction(int, int);
-extern int multiplication(int, int);
-extern int division(int, int);
-extern int modulous(int, int);
-extern int fact(int);
-extern int fibonacci(long);
-extern int square(int);
-extern int squareRoot(int);
-extern int cube(int);
-extern int cubeRoot(int);
 
-int main()
+int main() 
 {
-    int choice,op;
-    int digit, factorial, n, c;
+    int choice, op, digit, factorial, n, c;
     long int i = 0;
-    do
-    {
+
         printf("1: Arithmatic Operation\n2: Factorial\n3: Fibonacci Series\n4: Square, Cube and Roots \nEnter you choice:\n");
         scanf("%d", &choice);
         switch (choice)
@@ -57,17 +55,15 @@ int main()
             printf("Invalid Options!!!");
             break;
         }
-        printf(" \n \n ********************************************** \n ");
-    } while (op != 3);
-    return 0;
+        
 }
 
 int arithmaticOperation()
 {
-    int choice,op;
+    int choice, op;
     int number1, number2, result = 0;
-  
-    printf("1: Addition\n2: Substraction\n3: Multiplication\n4: Division\n5: Modulous\nEnter you choice:\n");
+
+    printf("1: Addition\n2: Subtraction\n3: Multiplication\n4: Division\n5: Modulous\nEnter you choice:\n");
     scanf("%d", &choice);
     switch (choice)
     {
@@ -81,7 +77,7 @@ int arithmaticOperation()
     case 2:
         printf("Enter the numbers:\n");
         scanf("%d %d", &number1, &number2);
-        result = substraction(number1, number2);
+        result = subtraction(number1, number2);
         printf("TOTAL = %d\n", result);
         break;
 
@@ -110,11 +106,9 @@ int arithmaticOperation()
         printf("Invalid Options");
         break;
     }
-    
+
     return 0;
 }
-
-
 
 int squareAndRoots()
 {
@@ -155,5 +149,4 @@ int squareAndRoots()
         printf("Enter valid Option!!! I.e: 1: Square\n2: Square Root\n3: Cube\n4: Cube Root\n");
         break;
     }
-    
 }

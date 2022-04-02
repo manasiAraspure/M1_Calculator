@@ -1,0 +1,11 @@
+int addition();
+int subtraction();
+int multiplication();
+int division();
+int modulous();
+int fact();
+int fibonacci();
+int square();
+int squareRoot();
+int cube();
+int cubeRoot();

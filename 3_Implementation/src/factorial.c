@@ -1,6 +1,6 @@
-#include"stdio.h"
-#include"unity.h"
-
+#include <stdio.h>
+#include <math.h>
+// #include "function.h"
 
 int fact(int num)
 {
@@ -15,9 +15,3 @@ int fact(int num)
 }
 
 
-//To test fact() function
-void testFactorial()
-{
-    TEST_ASSERT_EQUAL(120,fact(5));
-    
-}
