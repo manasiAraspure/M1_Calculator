@@ -55,7 +55,6 @@ int main()
             printf("Invalid Options!!!");
             break;
         }
-        
 }
 
 int arithmaticOperation()
