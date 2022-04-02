@@ -6,3 +6,13 @@
 ## Badges
 * [![Build CI](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml/badge.svg)](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml)
 * [![cppcheck Analysis](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/cppCheck.yml/badge.svg)](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/cppCheck.yml)
+
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`0_Certificates`   | 
+`1_Requirements`   | Detailed Documentation of project
+`2_Design`         | Contains the Design of the code
+`3_Implementation` | Source code
+`4_Test_plan`      | Test plans and procedures
