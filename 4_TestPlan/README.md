@@ -16,4 +16,5 @@
 
 # Test Output
 
-![Test Output](https://github.com/manasiAraspure/M1_Calculator/blob/main/4_TestPlan/Screenshot%20(6)
+
+![TestOutput](https://github.com/manasiAraspure/M1_Calculator/blob/main/4_TestPlan/Screenshot%20(63).png)
