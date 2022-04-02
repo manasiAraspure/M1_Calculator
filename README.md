@@ -1,4 +1,3 @@
-# SDLC Activity Based Learning
 ## Calculator
 
 ![Code_Quality_Grade](https://api.codiga.io/project/32154/status/svg)
@@ -25,4 +24,7 @@ Folder             | Description
 |F_04| Summary of Ticket |
 |F_05| Cancel a Ticket |
 |F_06| Logout |
+
+# Badges
+* [Build C/C++ CI]([![Build CI](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml/badge.svg)](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml))
 
