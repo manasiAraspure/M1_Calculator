@@ -13,12 +13,14 @@ Switch Case is use to implement the calculator. The switch statement allows us t
 * Quick and Efficient
 
 ## Weakness
-* Right now it does not include all the operations.
+* Right now it doesn't include all the possible operations.
 * Can not store the results for future use.
 * Only work with single input output.
+* only interger values gets evaluated.
 
 ## OPPORTUNITIES   
-* Calculators can be used as for the big calculations and to solve scienctific calculations. Now a days Calculator are available in every software based devices like computer and mobile phones, etc.
+* Calculators can be used as for the big calculations and to solve scienctific calculations.
+* Now a days Calculator are available in every software based devices like computer and mobile phones, etc.
 
 ## THREATS
 * Dependency. Even though calculators can do the basic operations instantly, students should not use it all the time.
