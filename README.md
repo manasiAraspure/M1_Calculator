@@ -5,4 +5,4 @@
 
 # Badges
 * [![Build CI](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml/badge.svg)](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml)
-
+* [![cppcheck Analysis](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/cppCheck.yml/badge.svg)](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/cppCheck.yml)
