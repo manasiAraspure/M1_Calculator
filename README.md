@@ -26,5 +26,5 @@ Folder             | Description
 |F_06| Logout |
 
 # Badges
-* [Build C/C++ CI]([![Build CI](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml/badge.svg)](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml))
+* [Build C/C++ CI]: [![Build CI](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml/badge.svg)](https://github.com/manasiAraspure/M1_Calculator/actions/workflows/BuildCI.yml)
 
