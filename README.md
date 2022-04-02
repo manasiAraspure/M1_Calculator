@@ -1,6 +1,28 @@
+# SDLC Activity Based Learning
+## Calculator
 
-# Calculator
+![Code_Quality_Grade](https://api.codiga.io/project/32154/status/svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/726202e5b994408193778e92f109e184)](https://www.codacy.com/gh/vishwasT007/M1_EVENT_TICKET_BOOKING_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vishwasT007/M1_EVENT_TICKET_BOOKING_SYSTEM&amp;utm_campaign=Badge_Grade)
+[![cppcheck-action](https://github.com/vishwasT007/M1_EVENT_TICKET_BOOKING_SYSTEM/actions/workflows/cppCheck.yml/badge.svg?branch=main)](https://github.com/vishwasT007/M1_EVENT_TICKET_BOOKING_SYSTEM/actions/workflows/cppCheck.yml)
+[![C/C++ CI](https://github.com/vishwasT007/M1_EVENT_TICKET_BOOKING_SYSTEM/actions/workflows/Cbuild.yml/badge.svg?branch=main)](https://github.com/vishwasT007/M1_EVENT_TICKET_BOOKING_SYSTEM/actions/workflows/Cbuild.yml)
+[![Unit testing](https://github.com/vishwasT007/M1_EVENT_TICKET_BOOKING_SYSTEM/actions/workflows/unittesting.yml/badge.svg)](https://github.com/vishwasT007/M1_EVENT_TICKET_BOOKING_SYSTEM/actions/workflows/unittesting.yml)
+[![Contribution Check - Git Inspector](https://github.com/vishwasT007/M1_EVENT_TICKET_BOOKING_SYSTEM/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vishwasT007/M1_EVENT_TICKET_BOOKING_SYSTEM/actions/workflows/gitinspector.yml)
 
-* Calculator is a electronic device which is used to solve mathematices which are faced by us in our daily life. Most of the calculator perform arithematic operations like addition, substraction, multiplication, and division. This project focus on numbers and arithematic operations which is build in C Programming language. I have added some other operations like Factorial, Fibonacci,Square, Square Root, Cube and Cube root.
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Architecture`   | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+`5_Images`         | Screen-shots of the working code
+##  Features
+| Feature Id | Feature |
+| -----------|---------|
+|F_01| Login to System | |
+|F_02|Select Events that are Avaliable |
+|F_03| Purchase a Ticket |
+|F_04| Summary of Ticket |
+|F_05| Cancel a Ticket |
+|F_06| Logout |
 
-* The end result of the calculator is its ability to process number and operators, and provides a useful results. For example, the Addition function returns the sum of 2 numbers.
