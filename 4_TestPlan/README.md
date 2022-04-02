@@ -15,3 +15,5 @@
 |  T_11|H_05|Cube Root|An Integer number | Returns the Cube root of the number|Returns the Cube root of the number | PASS |
 
 # Test Output
+
+![Test Output](https://github.com/manasiAraspure/M1_Calculator/blob/main/4_TestPlan/Screenshot%20(6)
