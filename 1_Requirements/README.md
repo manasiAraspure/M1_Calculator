@@ -19,7 +19,7 @@ Switch Case is use to implement the calculator. The switch statement allows us t
 * only interger values gets evaluated.
 
 ## OPPORTUNITIES   
-* Calculators can be used as for the big calculations and to solve scienctific calculations.
+* Calculators can be used as for the big calculations and to solve scientific calculations.
 * Now a days Calculator are available in every software based devices like computer and mobile phones, etc.
 
 ## THREATS
@@ -32,7 +32,7 @@ Switch Case is use to implement the calculator. The switch statement allows us t
   * Substraction
   * Multiplication
   * Division
-  * Modulous
+  * Modulus
 ### 2 Factorial of a number
 ### 3 Fibonacci Series
 ### 4 SquareAndRoots
