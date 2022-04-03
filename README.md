@@ -17,3 +17,4 @@ Folder             | Description
 `2_Design`         | Contains the Design of the code
 `3_Implementation` | Source code
 `4_Test_plan`      | Test plans and procedures
+`4_Images`      | Contains the Outputs of the Program
